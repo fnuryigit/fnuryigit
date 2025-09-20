@@ -25,6 +25,6 @@
 
 
 ## 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://https://www.linkedin.com/in/fatmanuryiğit//)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fatmanuryiğit//)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/fnuryigit/)  
 
