@@ -24,4 +24,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fatmanuryiğit/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/fnuryigit/)  
 
-![Kodlama Anı](https://tenor.com/tr/view/cat-computer-typing-fast-gif-5368357)
+![Kodlama Anı](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtobm5jeTF0bzI1cHlsM2d3MzdodG04eDlxeWtpZnhndXFwdGllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
+
