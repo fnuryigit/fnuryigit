@@ -18,7 +18,6 @@
 
 ##  Eğitim
 - **Patika Frontend Web Development Bootcamp**  
-  ![Patika](https://patika.dev/assets/images/logo.png)  
 
 ---
 
