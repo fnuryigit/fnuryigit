@@ -12,17 +12,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge)
 
----
+
 
 ##  Eğitim
 - **Patika Frontend Web Development Bootcamp**  
 
----
 
-##  GitHub İstatistikleri
-![Fatma Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fnuryigit&show_icons=true&theme=radical)
 
----
 
 ##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fnuryigit/)  
