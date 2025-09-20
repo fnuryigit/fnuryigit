@@ -7,7 +7,6 @@
 ---
 
 
----
 
 ##  Teknolojiler & Araçlar
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge)
@@ -32,6 +31,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fnuryigit/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/fnuryigit/)  
 
----
-
-![Coding GIF](https://media.giphy.com/media/26xBukhk6fY5dDSS0/giphy.gif)
